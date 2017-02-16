@@ -23,7 +23,7 @@ Which is a slightly modified fork of:
 
 * Go 1.8
 
-Go 1.8 is _really_close_ to release. Seriously.
+Go 1.8 was released today!
 
 .image img/rocket.jpg _ 350
 
@@ -31,9 +31,9 @@ Go 1.8 is _really_close_ to release. Seriously.
 
 Go 1.8 is the 9th release in the Go 1 series. It follows from the previous version, Go 1.7, [[https://blog.golang.org/go1.7][released on the 16th of August, 2016]]
 
-.link https://github.com/golang/go/releases Go Releases
+.link https://blog.golang.org/go1.8 Blog Post
 
-.link http://beta.golang.org/doc/go1.8 Go 1.8 Release Notes (DRAFT)
+.link https://golang.org/doc/go1.8 Release Notes
 
 * What's changed
 
